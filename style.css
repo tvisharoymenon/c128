@@ -1,0 +1,31 @@
+.heading{
+width:100%;
+font-size:25px;
+margin:0px;
+}
+.fs{
+    font-size:18px;
+    color:chocolate;
+}
+body{
+    background-size: cover;
+}
+.divgif{
+    width:200px;
+    border-radius:100px;
+}
+.div_volume{
+    float:left;
+}
+.div_speed{
+    float:right;
+}
+.play{
+    font-size: 23px;
+    width:100px;
+}
+canvas{
+    border-radius: 75px;
+    border-color: darkblue;
+    border:10px;
+}
